@@ -15,16 +15,17 @@
 | 10 | Apache Hadoop |
 | 11 | Apache Spark |
 | 12 | Apache Flink |
-| 13 | Presto |
-| 14 | Druid |
-| 15 | Google Cloud Platform (including Dataproc, GKE) |
-| 16 | Amazon Web Services (including EMR) |
-| 17 | Microsoft Azure |
-| 18 | Kubernetes (including Custom Resource Objects, Operators) |
-| 18 | SBT, Gradle, Maven |
-| 19 | Jenkins, Azkaban, Airflow |
-| 20 | Databases/DataStores (including MySQL, MariaDB, PostgreSQL, Redis)
-| 21 | Security (including IAM, Kerberos, SAML, OAuth2, OIDC, Keycloak)
+| 13 | Apache Hive |
+| 14 | Presto |
+| 15 | Druid |
+| 16 | Google Cloud Platform (including Dataproc, GKE) |
+| 17 | Amazon Web Services (including EMR) |
+| 18 | Microsoft Azure |
+| 19 | Kubernetes (including Custom Resource Objects, Operators) |
+| 20 | SBT, Gradle, Maven |
+| 21 | Jenkins, Azkaban, Airflow |
+| 22 | Databases/DataStores (including MySQL, MariaDB, PostgreSQL, Redis)
+| 23 | Security (including IAM, Kerberos, SAML, OAuth2, OIDC, Keycloak)
 
 - 🌱 I’m currently learning/perfecting ... Rust
 - 💞️ I’m looking to collaborate on ... Rust
