@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nagavijayapuram
 - 👀 I’m interested in ...
 
-| # | Language/Framework |
+| # | Language, Framework, Cloud Provider |
 | - | ------------------ |
 | 1 | Rust |
 | 2 | Golang (Go) |
@@ -12,8 +12,11 @@
 | 7 | Groovy |
 | 8 | Kotlin |
 | 9 | Java |
+| 10 | Google Cloud Platform |
+| 11 | Amazon Web Services |
+| 12 | Microsoft Azure |
 
-- 🌱 I’m currently learning ... Rust
+- 🌱 I’m currently learning/perfecting ... Rust
 - 💞️ I’m looking to collaborate on ... Rust
 - 📫 How to reach me ... ctciglm@gmail.com
 
