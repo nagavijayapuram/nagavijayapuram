@@ -29,7 +29,7 @@
 
 - 🌱 I’m currently learning/perfecting ... Rust
 - 💞️ I’m looking to collaborate on ... Rust
-- 📫 How to reach me ... ctciglm@gmail.com
+- 📫 How to reach me ... nvijayap@gmail.com
 
 <!---
 nagavijayapuram/nagavijayapuram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
